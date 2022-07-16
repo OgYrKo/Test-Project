@@ -1,0 +1,26 @@
+{
+  "id": "2e6df055-12b0-4525-be58-fa022dc86d53",
+  "name": "Test Base From MAH",
+    "publisher": "MAH",
+    "version": "1.0.0.0",
+    "dependencies": [],
+    "screenshots": [],
+    "brief": "Test Base From MAH",
+    "description": "Test Base From MAH",
+    "platform": "20.0.0.0",
+    "application": "20.0.0.0",
+    "idRanges": [
+      {
+        "from": 50000,
+        "to": 50499
+      }
+    ],
+    "resourceExposurePolicy": {
+      "allowDebugging": true,
+      "allowDownloadingSource": false,
+      "includeSourceInSymbolFile": false
+    },
+    "runtime": "8.0",
+    "target": "OnPrem",
+    "features": ["TranslationFile"]
+  }

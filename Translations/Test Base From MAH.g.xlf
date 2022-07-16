@@ -1,0 +1,329 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Test Base From MAH">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 2972818725 - NamedType 3192934164" size-unit="char" translate="yes" xml:space="preserve">
+          <source>-R</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TestMAH-Functional Mgmt - NamedType CopySuffixLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2972818725 - NamedType 133847172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Excel is successfully imported %1 items</source>
+          <note from="Developer" annotates="general" priority="2">%1 - Count of imported items</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TestMAH-Functional Mgmt - NamedType ExcelImportSucessLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2972818725 - NamedType 664385770" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Choose excel file</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TestMAH-Functional Mgmt - NamedType ExcelMessageLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2972818725 - NamedType 3725157417" size-unit="char" translate="yes" xml:space="preserve">
+          <source>MAHExcelFile</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TestMAH-Functional Mgmt - NamedType HeaderTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2972818725 - NamedType 273029542" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No Excel file found!</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TestMAH-Functional Mgmt - NamedType NoFileFoundMsgLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2972818725 - NamedType 3417773150" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Sheet1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TestMAH-Functional Mgmt - NamedType SheetNameLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2972818725 - Method 2070813006 - NamedType 2474193251" size-unit="char" translate="yes" xml:space="preserve">
+          <source>1</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TestMAH-Functional Mgmt - Method AddNumber - NamedType StartNumberLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2972818725 - Method 2579000583 - NamedType 336644699" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Revised version %1 has been created</source>
+          <note from="Developer" annotates="general" priority="2">%1 - Document No.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit TestMAH-Functional Mgmt - Method CreateRevisedVersionFromSalesHeader - NamedType RevisedVersionCreatedMsg</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2890757369 - Control 1232172152 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Specifies the value of the Date Needed By field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TestMAH-Customer Card - Control Date Needed By - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2890757369 - Control 1232172152 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Date Needed By</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TestMAH-Customer Card - Control Date Needed By - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2890757369 - Control 412507955 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Specifies the value of the Delivery Location field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TestMAH-Customer Card - Control Delivery Location - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2890757369 - Control 412507955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Delivery Location</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TestMAH-Customer Card - Control Delivery Location - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2890757369 - Control 775237226 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Specifies the value of the Guaranteed field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TestMAH-Customer Card - Control Guaranteed - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2890757369 - Control 775237226 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Guaranteed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TestMAH-Customer Card - Control Guaranteed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2890757369 - Control 3984556654 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Specifies the value of the Receiving Phone field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TestMAH-Customer Card - Control Receiving Phone - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2890757369 - Control 3984556654 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 523354100">
+          <source>Receiving Phone</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TestMAH-Customer Card - Control Receiving Phone - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2049452811 - Control 1232172152 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Specifies the value of the Date Needed By field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TestMAH-Sales Order - Control Date Needed By - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2049452811 - Control 1232172152 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Date Needed By</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TestMAH-Sales Order - Control Date Needed By - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2049452811 - Control 412507955 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Specifies the value of the Delivery Location field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TestMAH-Sales Order - Control Delivery Location - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2049452811 - Control 412507955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Delivery Location</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TestMAH-Sales Order - Control Delivery Location - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2049452811 - Control 775237226 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Specifies the value of the Guaranteed field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TestMAH-Sales Order - Control Guaranteed - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2049452811 - Control 775237226 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Guaranteed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TestMAH-Sales Order - Control Guaranteed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2049452811 - Control 3984556654 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Specifies the value of the Receiving Phone field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TestMAH-Sales Order - Control Receiving Phone - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2049452811 - Control 3984556654 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1673401186">
+          <source>Receiving Phone</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TestMAH-Sales Order - Control Receiving Phone - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2934906839 - Action 505212341 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 280137910">
+          <source>Create revised version and copy document lines and header information.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TestMAH-Sales Quote - Action TestMAH-Create Revised Version - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2934906839 - Action 505212341 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 280137910">
+          <source>Create Revised Version</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TestMAH-Sales Quote - Action TestMAH-Create Revised Version - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2934906839 - Action 2923057574 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 280137910">
+          <source>Executes the Copy Sales action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TestMAH-Sales Quote - Action TestMAH-CopySales - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2934906839 - Action 2923057574 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 280137910">
+          <source>Copy Sales</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TestMAH-Sales Quote - Action TestMAH-CopySales - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2934906839 - Control 1232172152 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 280137910">
+          <source>Specifies the value of the Date Needed By field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TestMAH-Sales Quote - Control Date Needed By - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2934906839 - Control 1232172152 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 280137910">
+          <source>Date Needed By</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TestMAH-Sales Quote - Control Date Needed By - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2934906839 - Control 412507955 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 280137910">
+          <source>Specifies the value of the Delivery Location field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TestMAH-Sales Quote - Control Delivery Location - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2934906839 - Control 412507955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 280137910">
+          <source>Delivery Location</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TestMAH-Sales Quote - Control Delivery Location - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2934906839 - Control 775237226 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 280137910">
+          <source>Specifies the value of the Guaranteed field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TestMAH-Sales Quote - Control Guaranteed - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2934906839 - Control 775237226 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 280137910">
+          <source>Guaranteed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TestMAH-Sales Quote - Control Guaranteed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2934906839 - Control 3984556654 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 280137910">
+          <source>Specifies the value of the Receiving Phone field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TestMAH-Sales Quote - Control Receiving Phone - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 2934906839 - Control 3984556654 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 280137910">
+          <source>Receiving Phone</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TestMAH-Sales Quote - Control Receiving Phone - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3166044305 - Action 258389575 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 416138076">
+          <source>Executes the Import Excel action.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TestMAH-Sales Quote Subform - Action TestMAH-ExcelImport - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3166044305 - Action 258389575 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 416138076">
+          <source>Import Excel</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TestMAH-Sales Quote Subform - Action TestMAH-ExcelImport - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 533466295 - Control 1232172152 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1187003046">
+          <source>Specifies the value of the Date Needed By field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TestMAH-Ship-to Address - Control Date Needed By - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 533466295 - Control 1232172152 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1187003046">
+          <source>Date Needed By</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TestMAH-Ship-to Address - Control Date Needed By - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 533466295 - Control 412507955 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1187003046">
+          <source>Specifies the value of the Delivery Location field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TestMAH-Ship-to Address - Control Delivery Location - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 533466295 - Control 412507955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1187003046">
+          <source>Delivery Location</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TestMAH-Ship-to Address - Control Delivery Location - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 533466295 - Control 775237226 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1187003046">
+          <source>Specifies the value of the Guaranteed field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TestMAH-Ship-to Address - Control Guaranteed - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 533466295 - Control 775237226 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1187003046">
+          <source>Guaranteed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TestMAH-Ship-to Address - Control Guaranteed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 533466295 - Control 3984556654 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1187003046">
+          <source>Specifies the value of the Receiving Phone field.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TestMAH-Ship-to Address - Control Receiving Phone - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 533466295 - Control 3984556654 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 1187003046">
+          <source>Receiving Phone</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension TestMAH-Ship-to Address - Control Receiving Phone - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3159563093 - Field 1232172152 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Date Needed By</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TestMAH-Customer - Field Date Needed By - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3159563093 - Field 412507955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Delivery Location</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TestMAH-Customer - Field Delivery Location - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3159563093 - Field 775237226 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Guaranteed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TestMAH-Customer - Field Guaranteed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3159563093 - Field 3984556654 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1994964448">
+          <source>Receiving Phone</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TestMAH-Customer - Field Receiving Phone - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1682986716 - Field 1232172152 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Date Needed By</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TestMAH-Sales Header - Field Date Needed By - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1682986716 - Field 412507955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Delivery Location</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TestMAH-Sales Header - Field Delivery Location - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1682986716 - Field 775237226 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Guaranteed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TestMAH-Sales Header - Field Guaranteed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 1682986716 - Field 3984556654 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1192395785">
+          <source>Receiving Phone</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TestMAH-Sales Header - Field Receiving Phone - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 533466295 - Field 1232172152 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1187003046">
+          <source>Date Needed By</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TestMAH-Ship-to Address - Field Date Needed By - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 533466295 - Field 412507955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1187003046">
+          <source>Delivery Location</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TestMAH-Ship-to Address - Field Delivery Location - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 533466295 - Field 775237226 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1187003046">
+          <source>Guaranteed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TestMAH-Ship-to Address - Field Guaranteed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 533466295 - Field 3984556654 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 1187003046">
+          <source>Receiving Phone</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension TestMAH-Ship-to Address - Field Receiving Phone - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 412507955 - EnumValue 76322413 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Airport</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Delivery Location - EnumValue Airport - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 412507955 - EnumValue 3064791612 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Farm</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Delivery Location - EnumValue Farm - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 412507955 - EnumValue 3245886056 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hospital</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Delivery Location - EnumValue Hospital - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 412507955 - EnumValue 4118775075 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Prison</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Delivery Location - EnumValue Prison - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 412507955 - EnumValue 3892178482 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Regular Commercial</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Delivery Location - EnumValue Regular Commercial - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 412507955 - EnumValue 244841840 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>School</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Delivery Location - EnumValue School - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
